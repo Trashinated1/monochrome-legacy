@@ -54,7 +54,7 @@ $(document).ready(function () {
   var currentInstanceIndex = 0;
   var isHttpFallback = false;
   var FALLBACK_INSTANCES = [
-    "https://wolf.qqdl.site",
+    "https://hifi-2tzpyfhd.geeked.wtf,
     "https://maus.qqdl.site",
     "https://vogel.qqdl.site",
     "https://katze.qqdl.site",
@@ -95,7 +95,7 @@ $(document).ready(function () {
       // Probe a known HTTPS endpoint (one of our instances)
       // Use a known stable one, or just try the first instance later?
       // Better to fail fast now.
-      var probeUrl = "https://tidal.kinoplus.online/";
+      var probeUrl = "https://hifi-2tzpyfhd.geeked.wtf/";
       
       console.log("Probing HTTPS support...");
       
