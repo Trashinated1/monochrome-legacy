@@ -54,7 +54,7 @@ $(document).ready(function () {
   var currentInstanceIndex = 0;
   var isHttpFallback = false;
   var FALLBACK_INSTANCES = [
-    "https://hifi-2tzpyfhd.geeked.wtf,
+    "https://hifi-2tzpyfhd.geeked.wtf",
     "https://maus.qqdl.site",
     "https://vogel.qqdl.site",
     "https://katze.qqdl.site",
